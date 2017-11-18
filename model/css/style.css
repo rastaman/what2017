@@ -4704,11 +4704,13 @@ body.mini-navbar.fixed-sidebar .logo-element {
   margin: 0 auto;
   padding: 100px 20px 20px 20px;
 }
+
 .passwordBox {
   max-width: 460px;
   margin: 0 auto;
   padding: 100px 20px 20px 20px;
 }
+
 .logo-name {
   c_olor: #e6e6e6;
   f_ont-size: 180px;
@@ -4717,7 +4719,10 @@ body.mini-navbar.fixed-sidebar .logo-element {
   m_argin-bottom: 0;
   background-image: url('./logo_moche.png');
   background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .middle-box h1 {
   font-size: 170px;
 }
