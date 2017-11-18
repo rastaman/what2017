@@ -4710,11 +4710,13 @@ body.mini-navbar.fixed-sidebar .logo-element {
   padding: 100px 20px 20px 20px;
 }
 .logo-name {
-  color: #e6e6e6;
-  font-size: 180px;
-  font-weight: 800;
-  letter-spacing: -10px;
-  margin-bottom: 0;
+  c_olor: #e6e6e6;
+  f_ont-size: 180px;
+  f_ont-weight: 800;
+  l_etter-spacing: -10px;
+  m_argin-bottom: 0;
+  background-image: url('./logo_moche.png');
+  background-repeat: no-repeat;
 }
 .middle-box h1 {
   font-size: 170px;
