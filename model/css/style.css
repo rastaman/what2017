@@ -4717,10 +4717,10 @@ body.mini-navbar.fixed-sidebar .logo-element {
   f_ont-weight: 800;
   l_etter-spacing: -10px;
   m_argin-bottom: 0;
-  background-image: url('./logo_moche.png');
+  background-image: url('./logo.png');
   background-repeat: no-repeat;
-  margin-left: auto;
-  margin-right: auto;
+  m_argin-left: auto;
+  m_argin-right: auto;
 }
 
 .middle-box h1 {
